@@ -115,15 +115,3 @@ It is **not intended for clinical or diagnostic use**.
 ## Citation
 
 If you use this dataset, please cite the relevant academic work or repository.
-
----
-
-## License
-
-Please refer to the repository’s license file for terms of use.
-
----
-
-## Contact
-
-For questions or collaboration inquiries, please open an issue in this repository.
